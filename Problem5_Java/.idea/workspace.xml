@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1416158a-ce54-4c69-9f04-cd2c1c5bc1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Problem3_Python/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Problem3_Python/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Problem5_Python/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Problem5_Python/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Problem5_Python/Population.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1_Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1_Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem2_Python/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bradley_Sumner_HW2.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem1_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1_Java/out/production/Problem1_Java/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/out/production/Problem1_Java/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1_Java/out/production/Problem1_Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/out/production/Problem1_Java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1_Java/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/src/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem3_Python/.idea/Problem3_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem3_Python/.idea/Problem3_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem3_Python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem3_Python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem3_Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem3_Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4_Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem4_Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4_Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem4_Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem4_Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problem5_Java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problem5_Java/Population.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem5_Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem5_Java/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem5_Java/Population.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem5_Java/Population.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem5_Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem5_Python/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,10 +27,12 @@
     <session id="1418322361">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -71,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Population.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="425">
               <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
               <folding>
                 <element signature="e#403#404#0" expanded="true" />
@@ -84,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+            <state relative-caret-position="262">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="e#0#1048#0" expanded="true" />
               </folding>
@@ -124,7 +123,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="960" />
@@ -137,6 +136,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -149,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,17 +201,18 @@
       <updated>1536867330461</updated>
       <workItem from="1536867347818" duration="4902000" />
       <workItem from="1536872440196" duration="134000" />
+      <workItem from="1537300450921" duration="185000" />
+      <workItem from="1537303983060" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5036000" />
+    <option name="totallyTimeSpent" value="5250000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="960" height="1050" extended-state="4" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15754923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11119516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -221,7 +221,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32934782" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -230,7 +230,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32934782" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3276923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -251,7 +251,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Population.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="425">
           <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
           <folding>
             <element signature="e#403#404#0" expanded="true" />
@@ -262,8 +262,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state relative-caret-position="262">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="34" />
           <folding>
             <element signature="e#0#1048#0" expanded="true" />
           </folding>
@@ -310,7 +310,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

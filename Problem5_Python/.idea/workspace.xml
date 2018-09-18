@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="029fbb29-24ed-4879-a7f0-926437d06912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Problem3_Python/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Problem3_Python/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Population.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem1_Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1_Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem1_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem1_Java/out/production/Problem1_Java/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/out/production/Problem1_Java/Customer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem1_Java/out/production/Problem1_Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/out/production/Problem1_Java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem1_Java/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem1_Java/src/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem3_Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem3_Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4_Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem4_Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem4_Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem5_Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem5_Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem5_Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem5_Java/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem5_Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem5_Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem5_Java/out/production/Problem5_Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem5_Java/out/production/Problem5_Java/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Problem5_Java/out/production/Problem5_Java/Population.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem5_Java/out/production/Problem5_Java/Population.class" afterDir="false" />
@@ -54,13 +49,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="745376814">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="408">
               <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
             </state>
           </provider>
@@ -69,17 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Population.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="170">
               <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-              <folding>
-                <marker date="1537247525814" expanded="true" signature="17:22" ph="..." />
-                <marker date="1537247525814" expanded="true" signature="242:279" ph="..." />
-                <marker date="1537247525814" expanded="true" signature="305:343" ph="..." />
-                <marker date="1537247525814" expanded="true" signature="362:393" ph="..." />
-                <marker date="1537247525814" expanded="true" signature="421:455" ph="..." />
-                <marker date="1537247525814" expanded="true" signature="484:519" ph="..." />
-                <marker date="1537247525814" expanded="true" signature="541:569" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -104,11 +99,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="960" />
-    <option name="y" value="30" />
-    <option name="width" value="960" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -121,6 +116,9 @@
       <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Problem2_Python" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,9 +140,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Playe\AppData\Local\Programs\Python\Python36-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
@@ -176,23 +174,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="30" width="960" height="1050" extended-state="4" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18569905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12723215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32934782" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -202,26 +199,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Population.py">
+    <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <marker date="1537247525814" expanded="true" signature="17:22" ph="..." />
-            <marker date="1537247525814" expanded="true" signature="242:279" ph="..." />
-            <marker date="1537247525814" expanded="true" signature="305:343" ph="..." />
-            <marker date="1537247525814" expanded="true" signature="362:393" ph="..." />
-            <marker date="1537247525814" expanded="true" signature="421:455" ph="..." />
-            <marker date="1537247525814" expanded="true" signature="484:519" ph="..." />
-            <marker date="1537247525814" expanded="true" signature="541:569" ph="..." />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
+    <entry file="file://$PROJECT_DIR$/Population.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
